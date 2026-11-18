@@ -1,0 +1,37 @@
+CustomerID,CustomerName,Segment,City,Region,Email
+C001,Aarav Traders,Small Business,Jaipur,North,customer1@example.com
+C002,Delta Stores,Consumer,Hyderabad,South,customer2@example.com
+C003,  Indigo Enterprises  ,Consumer,Chandigarh,North,customer3@example.com
+C004,Aarav Traders,Consumer,Mumbai,West,customer4@example.com
+C005,Delta Stores,consumer,Hyderabad,South,customer5@example.com
+C006,Indigo Enterprises,Consumer,Chandigarh,North,customer6@example.com
+C007,Delta Stores,Corporate,Ahmedabad,east ,customer7@example.com
+C008,Aarav Traders,Consumer,Patna,East,customer8@example.com
+C009,Falcon Supplies,Corporate, Kolkata ,West,customer9@example.com
+C010,Falcon Supplies,Consumer,Chennai,South,customer10@example.com
+C011,BlueSky Retail 11,Corporate,Pune,West,
+C012,Aarav Traders 12,Small Business,Bhubaneswar,East,customer12@example.com
+C013,,Consumer,Chandigarh,North,customer13@example.com
+C014,Juniper Shop 14,Corporate,Patna,East,customer14@example.com
+C015,BlueSky Retail 15,Consumer,Hyderabad,South,customer15@example.com
+C016,Evergreen Mart 16,Consumer,Chennai,,customer16@example.com
+C017,Galaxy Retail 17,Corporate,Jaipur,North,customer17@example.com
+C018,Cedar & Co 18,Corporate,Bhubaneswar,East,customer18@example.com
+C019,Evergreen Mart 19,Corporate ,Hyderabad,South,customer19@example.com
+C020,Juniper Shop 20,Small Business,Delhi,North,customer20@example.com
+C021,Cedar & Co 21,Corporate,Bengaluru,South,customer21@example.com
+C022,Indigo Enterprises 22,Consumer,Patna,East,customer22@example.com
+C023,Aarav Traders 23,Consumer,Kolkata,East,not-an-email
+C024,Galaxy Retail 24,Corporate,Kolkata,East,customer24@example.com
+C025,Juniper Shop 25,Small Business,Bengaluru,South,customer25@example.com
+C026,Harbor Goods 26,Corporate,MUMBAI,South,customer26@example.com
+C027,Cedar & Co 27,Corporate,Mumbai,West,customer27@example.com
+C028,Indigo Enterprises 28,Small Business,Bengaluru,South,customer28@example.com
+C029,Juniper Shop 29,Corporate,Pune,West,customer29@example.com
+C030,Cedar & Co 30,Small Business,Bengaluru,South,customer30@example.com
+C031,Aarav Traders 31,Consumer,Delhi,North,customer31@example.com
+C032,Galaxy Retail 32,Small Business,Chennai,South,customer32@example.com
+C033,Galaxy Retail 33,Small Business,Pune,West,customer33@example.com
+C034,Indigo Enterprises 34,Consumer,Patna,East,customer34@example.com
+C035,Indigo Enterprises 35,Corporate,Chandigarh,North,customer35@example.com
+C008,Aarav Traders,Consumer,Patna,East,customer8@example.com
