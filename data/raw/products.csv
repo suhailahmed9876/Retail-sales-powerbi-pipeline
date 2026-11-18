@@ -1,0 +1,20 @@
+ProductID,ProductName,Category,SubCategory,CostPrice,ListPrice
+P001,Wireless Mouse,Technology,Furniture,23.63,113.21
+P002, Keyboard ,Technology,Electronics,4.57,182.75
+P003,Monitor,Technology,Furniture,175.05,192.39
+P004,USB Hub,technology,Accessories,157.21,80.22
+P005,Webcam,Technology,Office,30.9,192.53
+P006,Laptop Stand,Technology, ELECTRONICS ,109.41,126.24
+P007,Office Chair,Furniture,Accessories,167.52,220.65
+P008,Desk,Furniture,Furniture,N/A,66.29
+P009,Bookshelf,Furniture,Accessories,19.08,125.61
+P010,Filing Cabinet,Furniture,Accessories,-12.5,136.91
+P011,Lamp,Furniture,Office,26.6,123.02
+P012,Footrest,Furniture,Office,50.65,unknown
+P013,Notebook,Office Supplies,Electronics,173.73,232.8
+P014,,Office Supplies,Office,129.48,104.56
+P015,Stapler,Office Supplies,Furniture,81.11,133.25
+P016,Printer Paper,Office Supplies,Accessories,47.63,23.49
+P017,Folders,Office supplies ,Accessories,107.54,63.69
+P018,Markers,Office Supplies,Office,5.27,179.3
+P005,Webcam,Technology,Office,30.9,192.53
